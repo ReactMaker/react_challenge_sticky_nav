@@ -2,7 +2,7 @@
 
 捲動畫面到特定位置後，將選單使用CSS固定在上方
 
-![Imgur](https://i.imgur.com/jhL1GY5.gif)
+![Imgur](http://g.recordit.co/oSNQmGJenE.gif)
 
 ## [DEMO](https://reactmaker.github.io/react_challenge_sticky_nav/#/)
 
